@@ -1,5 +1,5 @@
 import React from 'react';
-import useDarkMan from '../hooks/useDarkMode'
+import useDarkMan from './useDarkMode'
 
 const Navbar = () => {
   console.log('Dark', useDarkMan)
